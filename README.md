@@ -14,7 +14,7 @@ To predict the marks scored by a student using the simple linear regression mode
 4. Plot the graph for both the data sets and calculate for MAE, MSE and RMSE.
 
 ### Program:
-```
+```Python
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -68,7 +68,7 @@ print("RMSE : ",np.sqrt(mse))
 <br>
 <br>
 
-
+**Predicted Values of Y**<br>
 ![Screenshot 2024-02-26 212638](https://github.com/ROHITJAIND/EX-02-SimpleLinearRegressionModel-for-Predicting-the-Marks-Scored/assets/118707073/e2be81a2-00bc-4298-bfbc-0de77e45b642)
 <br>
 <br>
